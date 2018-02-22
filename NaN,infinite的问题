@@ -1,0 +1,2 @@
+JAVA中NaN代表不是一个数字，例如说除以0，就会发生这类错误，可以用isNaN判断
+infinite代表无限，可以用isinfinite判断
