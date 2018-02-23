@@ -1,0 +1,4 @@
+The type Collection is not generic; it cannot be parameterized with arguments
+等其他类似的错误，都是泛型的问题
+解决方法1：导入的包错了，应该导入的java.util.List而不是java，awt.list
+声明的原则：列表<整数> list = new ArrayList<Integer>();
