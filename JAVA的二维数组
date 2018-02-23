@@ -1,0 +1,2 @@
+JAVA二维数组的长度是行的长度，也就是行数   array.length
+列的长度是行数组的长度  array[i].length
