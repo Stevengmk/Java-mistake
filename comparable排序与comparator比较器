@@ -1,0 +1,2 @@
+comparable不需要指定比较器就能够使用Coolection.sort()方法。
+但是comparator需要指定list和自己写的继承了comparator类的比较器
